@@ -1,0 +1,51 @@
+{
+  "version": "1.0",
+  "lastUpdate": "2024-01-20",
+  "series": [
+    {
+      "id": "series_1",
+      "name": "Los Picapiedra",
+      "description": "Fue emitida por primera vez en la cadena estadounidense ABC el 30 de septiembre de 1960.",
+      "thumbnailUrl": "https://media.themoviedb.org/t/p/w220_and_h330_face/gyUSJoUxp0bFDlyLc8GCQH7JyjG.jpg",
+      "m3u8Url": "https://raw.githubusercontent.com/jorge398013/TvRetro/refs/heads/main/los_picapiedra.m3u8",
+      "genre": "Comedia",
+      "year": 1960
+    },
+    {
+      "id": "series_2",
+      "name": "Don Gato y su pandilla",
+      "description": "Don Gato, es el líder de una pandilla felina callejera de Manhattan: Panza, Espanto, Benito Bodoque, Demóstenes y Cucho. Por su parte, el Oficial Matute, policía del vecindario, trata infructuosamente de atraparlos y llevarlos a la cárcel.",
+      "thumbnailUrl": "https://media.themoviedb.org/t/p/w220_and_h330_face/f30lAglX7X0VXLnkYO62inqc7ww.jpg",
+      "m3u8Url": "https://raw.githubusercontent.com/jorge398013/TvRetro/refs/heads/main/don_gato_y_su_pandilla.m3u8",
+      "genre": "Comedia",
+      "year": 1961
+    },
+    {
+      "id": "series_3",
+      "name": "¡Mucha Lucha!",
+      "description": "¡Mucha lucha! fue una serie animada mexicana-estadounidense producida por Warner Bros. Animation y Nelvana que fue estrenada en Cartoon Network el 17 de agosto de 2002 y finalizada en 26 de febrero del 2005.",
+      "thumbnailUrl": "https://media.themoviedb.org/t/p/w220_and_h330_face/w12B6di7moo2otX4X4y3y3gKagz.jpg",
+      "m3u8Url": "https://raw.githubusercontent.com/jorge398013/TvRetro/refs/heads/main/mucha_lucha.m3u8",
+      "genre": "Animación",
+      "year": 2002
+    },
+    {
+      "id": "series_4",
+      "name": "Malcolm",
+      "description": "Malcolm in the Middle es una serie de comedia estadounidense creada por Linwood Boomer para Fox.",
+      "thumbnailUrl": "https://media.themoviedb.org/t/p/w220_and_h330_face/fiHv0SXSdW3SqnviTHn8dVVPnOh.jpg",
+      "m3u8Url": "https://raw.githubusercontent.com/jorge398013/TvRetro/refs/heads/main/malcolm_in_the_middle.m3u8",
+      "genre": "Comedia",
+      "year": 2000
+    },
+    {
+      "id": "series_5",
+      "name": "Inspector Gadget",
+      "description": "El detective con gadgets más torpe del mundo",
+      "thumbnailUrl": "https://media.themoviedb.org/t/p/w220_and_h330_face/uiZPaylVRgjI7ZSn8yKGiGNn0TJ.jpg",
+      "m3u8Url": "https://example.com/playlists/inspector_gadget.m3u8",
+      "genre": "Aventura",
+      "year": 1983
+    }
+  ]
+}
