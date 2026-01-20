@@ -40,12 +40,12 @@
     },
     {
       "id": "series_5",
-      "name": "Inspector Gadget",
-      "description": "El detective con gadgets más torpe del mundo",
-      "thumbnailUrl": "https://media.themoviedb.org/t/p/w220_and_h330_face/uiZPaylVRgjI7ZSn8yKGiGNn0TJ.jpg",
-      "m3u8Url": "https://example.com/playlists/inspector_gadget.m3u8",
-      "genre": "Aventura",
-      "year": 1983
+      "name": "Looney Tunes",
+      "description": "Nueva serie protagonizada por dos de los más famosos Looney Tunes, el pato Lucas y el conejo Bugs Bunny.",
+      "thumbnailUrl": "https://media.themoviedb.org/t/p/w220_and_h330_face/bkH5kdxjeZobzG1q00NC2RAK5gb.jpg",
+      "m3u8Url": "https://raw.githubusercontent.com/jorge398013/TvRetro/refs/heads/main/looney_tunes.m3u8",
+      "genre": "Animada",
+      "year": 1952
     }
   ]
 }
